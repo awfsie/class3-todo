@@ -1,25 +1,25 @@
 // ADD YOUR CODE BELOW 
 
 // 1. Start with an array of strings (ex: "grapes", "bread", "tea")
-let items = [
-
+let todoItems = [
+    // add more items here
 ];
-
 
 
 
 // 2. Create variables for each interactive DOM element
 const addItemButton = document.getElementById('add-item-button');
-// add more variables 
+// add more variables below
+const list = document.getElementById('list');
 
 
 
-
-// 3. Write a function to render all items onto the page
+// 3. Write a function to display all items in the #list element
 function updateList() {
     // add your code here
 }
 
+updateList();
 
 
 
@@ -51,8 +51,3 @@ upperBtn.addEventListener("click", () => {
 clearBtn.addEventListener("click", () => {
     // add your code here
 });
-
-
-
-
-displayList();
