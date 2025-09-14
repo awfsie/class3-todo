@@ -39,15 +39,7 @@ sortBtn.addEventListener("click", () => {
 
 
 
-// 6. Transform items to uppercase when upperBtn is clicked
-upperBtn.addEventListener("click", () => {
-    // add your code here
-});
-
-
-
-
-// 7. Clear all items when clearBtn is clicked
+// 6. Clear all items when clearBtn is clicked
 clearBtn.addEventListener("click", () => {
     // add your code here
 });
